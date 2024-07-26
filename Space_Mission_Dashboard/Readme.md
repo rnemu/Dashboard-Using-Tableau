@@ -1,13 +1,12 @@
-# Airline Analysis on SFO Airport
+# Space Mission 
 ## Overview
-This project involves the creation of an **Airline Analysis on SFO Airport** Dashboard using BI tool **Tableau**. The dashboard explores dataset to extract insights and analyze the data.
+This project involves the creation of an **Space Mission** Dashboard using BI tool **Tableau**. The dashboard explores dataset to extract insights and analyze the data.
 ## Dashboard
-![Dashboard of SFO AIRPORT](https://github.com/user-attachments/assets/9618cb35-9e7e-4bae-a3d1-0073ae3e92a9)
+![Dashboard 1](https://github.com/user-attachments/assets/5a924ddc-3ca6-42bc-83cd-8dfd124849c8)
 
 
 
 ## link
 
-https://public.tableau.com/app/profile/rakesh.nemu/viz/SFOAirportAnalysis_16712613555900/DashboardofSFOAIRPORT
-
+https://public.tableau.com/app/profile/rakesh.nemu/viz/spacemission_16712591821340/Dashboard1
 
