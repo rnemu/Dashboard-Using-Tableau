@@ -1,12 +1,12 @@
-# Space Mission 
+# Titanic Survival 
 ## Overview
-This project involves the creation of an **Space Mission** Dashboard using BI tool **Tableau**. The dashboard explores dataset to extract insights and analyze the data.
+This project involves the creation of an **Titanic Survival** Dashboard using BI tool **Tableau**. The dashboard explores dataset to extract insights and analyze the data.
 ## Dashboard
-![Dashboard 1](https://github.com/user-attachments/assets/5a924ddc-3ca6-42bc-83cd-8dfd124849c8)
+![TAITANIC DASHBOARD](https://github.com/user-attachments/assets/7c9c8f4d-06b4-463c-bb9b-4774f7319e5f)
 
 
 
 ## link
 
-https://public.tableau.com/app/profile/rakesh.nemu/viz/spacemission_16712591821340/Dashboard1
+https://public.tableau.com/app/profile/rakesh.nemu/viz/TITANICDASHBOARD_16627235113930/TAITANICDASHBOARD
 
