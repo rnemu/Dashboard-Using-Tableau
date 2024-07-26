@@ -1,12 +1,13 @@
-# IPL-(2008-2020) Stat Analysis
+# Airline Analysis on SFO Airport
 ## Overview
-This project involves the creation of an **IPL Stat Analysis(2008 -2020)** Dashboard using BI tool **Tableau**. The dashboard explores dataset to extract insights and analyze the data.
+This project involves the creation of an **Airline Analysis on SFO Airport** Dashboard using BI tool **Tableau**. The dashboard explores dataset to extract insights and analyze the data.
 ## Dashboard
-![IPL ANALYSIS](https://github.com/user-attachments/assets/720f0cf2-7a2b-448b-93a1-ae602a33c4d4)
+![Dashboard of SFO AIRPORT](https://github.com/user-attachments/assets/9618cb35-9e7e-4bae-a3d1-0073ae3e92a9)
+
 
 
 ## link
 
-https://public.tableau.com/app/profile/rakesh.nemu/viz/IPLAnalysis2008-2020_16591212634990/IPLANALYSIS
+https://public.tableau.com/app/profile/rakesh.nemu/viz/SFOAirportAnalysis_16712613555900/DashboardofSFOAIRPORT
 
 
